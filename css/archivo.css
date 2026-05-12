@@ -1,3 +1,59 @@
-h1,h2{
+h1{
+text-decoration:underline;
+text-decoration-color:#155b6b;
+}
+.negrita{
+	font-weight: bold;
+	font-size: 23px;
+	background-color: azure;
+	opacity: 0.5;
+}
+header{
+	background-color: #579099;
+	border: 5px solid #93c4cf;
+	border-radius:10px;
 	text-align: center;
+}
+body{
+	background-image: url(../img/fondo.png);
+}
+main h2{
+text-align:center;
+}
+main{
+	background-color: #82d9e6;
+display: inline-block;
+flex:3;
+	min-width: 300px;
+	width: 700px;
+	padding: 20px;
+	border:5px solid #0b6a73 ;
+	margin: 10px;
+	border-radius:10px ;
+}
+main p{
+	text-align: justify;
+	height: 100%;
+}
+.contenedor{
+display: flex;
+}
+aside{
+	background-color: #6eb7c2;
+display:block;
+	flex:1;
+	padding: 20px;
+	border: 5px solid #0b6a73 ;
+	border-radius: 10px;
+margin: 10px;
+}
+
+footer{
+	background-color:#155b6b;
+	border: 5px solid #93c4cf;
+	border-radius:10px ;
+	text-align: center;
+}
+ul{
+	list-style: none;
 }
