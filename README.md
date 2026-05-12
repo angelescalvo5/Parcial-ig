@@ -1,2 +1,4 @@
 # Parcial ig
-Primer Parcial de Informática General
+Angeles Calvo
+Primer Parcial - Informática General 
+Artes Multimediales - UNA
