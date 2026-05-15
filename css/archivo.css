@@ -17,6 +17,7 @@ header{
 }
 body{
 	background-image: url(../img/fondo.png);
+	background-repeat: repeat;
 }
 main h2{
 text-align:center;
